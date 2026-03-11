@@ -59,14 +59,14 @@ I train models the same way I train myself — lots of epochs
 ## 📊 GitHub Stats
 
 ### 🔢 Total Commits (Till Today)
-![Total Commits](https://komarev.com/ghpvc/?username=musaddiqua&label=Total%20Commits&color=brightgreen)
+![Total Commits](https://komarev.com/ghpvc/?username=shreyagoturi14&label=Total%20Commits&color=brightgreen)
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shreya-goyuri&show_icons=true&locale=en&layout=compact" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shreyagoturi14&show_icons=true&locale=en&layout=compact" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=musaddiqua&show_icons=true&locale=en" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shreyagoturi14&show_icons=true&locale=en" />
 </p>
 
 <p>
@@ -85,8 +85,7 @@ I train models the same way I train myself — lots of epochs
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=shreyagoturi14&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=shreyagoturi14&limit=5&theme=dark&combine_all_yearly_contributions=true)
