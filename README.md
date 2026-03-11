@@ -17,7 +17,7 @@ I train models the same way I train myself — lots of epochs
 
 
 ### 🌱 Currently Learning
-**Deep Learning | Machine Learning | CNNs | Computer Vision (OpenCV, YOLO, ByteTrack) | Model Deployment & Optimization | Data Preprocessing | Data Engineering | ETL | Data Modeling | Model Evaluation & Tuning****
+**Deep Learning | Machine Learning | CNNs | Computer Vision (OpenCV, YOLO, ByteTrack) | Model Deployment & Optimization | Data Preprocessing | Data Engineering | ETL | Data Modeling | Model Evaluation & Tuning**
 
 ### 📄 My Resume
 👉 [Click here to view my resume](still on working)
@@ -39,16 +39,16 @@ I train models the same way I train myself — lots of epochs
 ## 🛠️ Languages and Tools
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" />
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" />
+<!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" /> -->
+<!-- <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" /> -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" />
-<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" />
+<!-- <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" /> -->
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" />
 <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" />
 <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" />
