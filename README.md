@@ -62,7 +62,7 @@ I train models the same way I train myself — lots of epochs
 ![Total Commits](https://komarev.com/ghpvc/?username=musaddiqua&label=Total%20Commits&color=brightgreen)
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=musaddiqua&show_icons=true&locale=en&layout=compact" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shreya-goyuri&show_icons=true&locale=en&layout=compact" />
 </p>
 
 <p>
@@ -70,7 +70,7 @@ I train models the same way I train myself — lots of epochs
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=musaddiqua" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreya" />
 </p>
 <!-- ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Shreya Goturi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shreyagoturi@gmail.com)  -->
